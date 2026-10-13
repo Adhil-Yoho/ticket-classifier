@@ -5,3 +5,8 @@ scikit-learn
 matplotlib
 seaborn
 joblib
+torch
+transformers
+accelerate
+pytest
+httpx
